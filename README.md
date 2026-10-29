@@ -5,3 +5,5 @@ Une mini API qui calcule des prix TTC.
 
 - @valentinlpka
 - @PercevalFox
+
+[![GitLab](https://gitlab.com/Valentinlpka/manufacture-api/badges/main/pipeline.svg)](https://gitlab.com/Valentinlpka/manufacture-api/-/pipelines)
